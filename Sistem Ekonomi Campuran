@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistem Ekonomi Campuran</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sistem Ekonomi Campuran</h1>
+    </header>
+
+    <nav>
+        <a href="#pengertian">Pengertian</a>
+        <a href="#karakteristik">Karakteristik</a>
+        <a href="#kelebihan">Kelebihan & Kelemahan</a>
+        <a href="#negara">Negara Penganut</a>
+        <a href="#materi-tambahan">Materi Tambahan</a>
+    </nav>
+
+    <section id="pengertian">
+        <h2>Pengertian</h2>
+        <p>Sistem ekonomi campuran adalah sistem ekonomi yang menggabungkan elemen-elemen dari ekonomi pasar bebas dan ekonomi terencana. Dalam sistem ini, baik sektor swasta maupun pemerintah memiliki peran dalam mengatur dan mengendalikan perekonomian.</p>
+    </section>
+
+    <section id="karakteristik">
+        <h2>Karakteristik</h2>
+        <ul>
+            <li>Adanya intervensi pemerintah dalam perekonomian.</li>
+            <li>Kombinasi antara sektor publik dan swasta.</li>
+            <li>Perlindungan hak milik pribadi dan kontrol atas pasar oleh pemerintah.</li>
+            <li>Adanya kebijakan untuk kesejahteraan sosial.</li>
+        </ul>
+    </section>
+
+    <section id="kelebihan">
+        <h2>Kelebihan & Kelemahan</h2>
+        <h3>Kelebihan:</h3>
+        <ul>
+            <li>Menjaga keseimbangan antara kepentingan pribadi dan kepentingan umum.</li>
+            <li>Mendorong pertumbuhan ekonomi dengan tetap memperhatikan kesejahteraan sosial.</li>
+            <li>Fleksibilitas dalam mengadaptasi kebijakan ekonomi sesuai dengan kondisi negara.</li>
+        </ul>
+        <h3>Kelemahan:</h3>
+        <ul>
+            <li>Potensi birokrasi yang berlebihan.</li>
+            <li>Resiko korupsi dan penyalahgunaan kekuasaan.</li>
+            <li>Konflik kepentingan antara sektor publik dan swasta.</li>
+        </ul>
+    </section>
+
+    <section id="negara">
+        <h2>Negara yang Menganut Sistem Ekonomi Campuran</h2>
+        <p>Beberapa negara yang menganut sistem ekonomi campuran antara lain:</p>
+        <ul>
+            <li>Indonesia</li>
+            <li>Prancis</li>
+            <li>India</li>
+            <li>Brazil</li>
+            <li>Australia</li>
+        </ul>
+    </section>
+
+    <section id="materi-tambahan">
+        <h2>Materi Tambahan</h2>
+        <p>Untuk informasi lebih lanjut tentang sistem ekonomi campuran, Anda dapat membaca buku-buku ekonomi dasar atau mengikuti kursus online yang berkaitan dengan ekonomi dan kebijakan publik.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sistem Ekonomi Campuran | Dibuat oleh ChatGPT</p>
+    </footer>
+</body>
+</html>
